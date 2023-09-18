@@ -4,7 +4,13 @@
 
 <h2>💫 About Me:</h2>
 
-🌱 I’m currently learning Django | React | FastApi
+🌱 I'm a passionate Full Stack Developer with a strong background in web development and a love for creating dynamic and impactful applications.
+With hands-on experience in both front-end and back-end technologies, I have the ability to bring designs to life and optimize functionality across multiple platforms.
+Being a team player, I greatly value collaborations and thrive in an agile development environment where I can actively participate in discussions and contribute innovative ideas. I always aim to stay up-to-date with the latest technologies and industry trends, exploring new tools and frameworks to ensure the highest quality in my work.
+Apart from my technical skills, I possess excellent problem-solving abilities, time management, and communication skills that facilitate seamless collaboration with clients and stakeholders. I am an avid learner and eager to take on new challenges that push me to continuously improve my craft.
+💡If you're looking for a Full Stack Developer who is dedicated, detail-oriented, and passionate about creating exceptional user experiences, I would love to connect with you. Let's collaborate and bring your ideas to life!
+
+🚀 Feel free to explore my Github repositories to get a better insight into my work. I look forward to connecting with like-minded individuals and contributing to exciting projects!
 
 
 # 💻 Tech Stack:
