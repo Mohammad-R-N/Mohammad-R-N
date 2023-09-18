@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times&size=30&pause=1000&width=435&lines=Hi+Everyone%F0%9F%91%8B%2C+I'm+Mohammad+Razzaghi" alt="Typing SVG" /></a>
+</h1>
+
 <h2>💫 About Me:</h2>
 
-🔭 I’m currently working on Rss Feed Project<br>🌱 I’m currently learning Django<br>💬 Ask me about Python
+🌱 I’m currently learning Django | React
 
 
 # 💻 Tech Stack:
@@ -10,11 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=mohammad-r-n&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammad-r-n&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-r-n&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohammad-r-n&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mohammad-r-n&icon=6&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
