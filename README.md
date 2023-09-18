@@ -1,10 +1,10 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times&size=30&pause=1000&width=435&lines=Hi+Everyone%F0%9F%91%8B%2C+I'm+Mohammad+Razzaghi" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times&size=30&pause=1000&width=435&lines=Hi+Everyone%F0%9F%91%8B%2C+I'm+Mohammad" alt="Typing SVG" /></a>
 </h1>
 
 <h2>💫 About Me:</h2>
 
-🌱 I’m currently learning Django | React
+🌱 I’m currently learning Django | React | FastApi
 
 
 # 💻 Tech Stack:
