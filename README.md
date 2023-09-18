@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-## 💫 About Me:
+<h2 align="center">💫 About Me:</h2>
+
 🔭 I’m currently working on Rss Feed Project<br>🌱 I’m currently learning Django<br>💬 Ask me about Python
 
 
