@@ -7,7 +7,8 @@
 🌱 I'm a passionate Full Stack Developer with a strong background in web development and a love for creating dynamic and impactful applications.<br/>
 
 🌟 With hands-on experience in both front-end and back-end technologies, I have the ability to bring designs to life and optimize functionality across multiple platforms.<br/>
-Being a team player, I greatly value collaborations and thrive in an agile development environment where I can actively participate in discussions and contribute innovative ideas. I always aim to stay up-to-date with the latest technologies and industry trends, exploring new tools and frameworks to ensure the highest quality in my work.<br/>
+
+🌐 Being a team player, I greatly value collaborations and thrive in an agile development environment where I can actively participate in discussions and contribute innovative ideas. I always aim to stay up-to-date with the latest technologies and industry trends, exploring new tools and frameworks to ensure the highest quality in my work.<br/>
 
 🏆 Apart from my technical skills, I possess excellent problem-solving abilities, time management, and communication skills that facilitate seamless collaboration with clients and stakeholders. I am an avid learner and eager to take on new challenges that push me to continuously improve my craft.<br/>
 
