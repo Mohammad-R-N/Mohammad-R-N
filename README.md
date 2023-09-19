@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/mohammad-n-razzaghi/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
 </a>
-<h3>Email: mohammad.web.dev@proton.me</h3>
+<h3 style="  background-color: #6f42c1;">Email: mohammad.web.dev@proton.me</h3>
 
 # 💻 Tech Stack:
 <div align="center" > 
