@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
 </a>
 <a href="https://mail.proton.me/mohammad.web.dev@proton.me/" target="_blank">
-<img width="96" height="96"  src="https://img.icons8.com/color/48/new-post.png" alt="new-post"/>
+<img width="48" height="35"  src="https://img.icons8.com/color/48/new-post.png" alt="new-post"/>
 </a>
 
 # 💻 Tech Stack:
