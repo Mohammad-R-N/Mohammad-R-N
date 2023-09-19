@@ -21,9 +21,7 @@
 <a href="https://www.linkedin.com/in/mohammad-n-razzaghi/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
 </a>
-<h3> Email: mohammad.web.dev@proton.me</h3>
-
-<a href="https://www.linkedin.com/in/mohammad-n-razzaghi/" target="_blank">
+<a href="https://mail.proton.me/mohammad.web.dev@proton.me/" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/color/48/new-post.png" alt="new-post"/>
 </a>
 
